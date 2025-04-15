@@ -1,9 +1,8 @@
+# ✅ Task Management Web Application
 ![image](https://github.com/user-attachments/assets/02412f4b-8800-4eff-845c-4b5af1037831)
 
 
 Hosted : https://yassine-todo-list.netlify.app/
-# ✅ Task Management Web Application
-
 ## 📝 Project Description
 
 This is a **web-based task management application** that allows users to **create, organize, and track their daily tasks** efficiently. The goal is to enhance productivity with a clean and intuitive interface for managing both personal and professional to-do items.
